@@ -10,8 +10,8 @@
     interpreter. 
 <br>
     On the other hand, C comes handy in projects that
-    require small and efficient statically-linked binaries without
-    many external dependencies, or for embedded programming.
+    require small and efficient binaries without
+    many external dependencies, or for embedded and/or systems programming.
 <br><br>
     These projects are either born out of a requirement for something
     I actually needed and couldn't find a simpler alternative, or
