@@ -21,3 +21,13 @@
 <br><br>
     Thanks for reading, hope you have a good day ahead!
 </div>
+
+---
+
+### List of merged open-source commits:
+| Project Repo | Commit Type | Programming Language | Project Maintainer | Commit
+| :--- | :--- | :--- | :--- | :--- |
+| [newlib-cygwin](https://sourceware.org/newlib/) | Bug fix | C | Red Hat, Inc. | [5d8c71af5e0fa5cdc99d9f741624920e34756418](https://sourceware.org/git/?p=newlib-cygwin.git;a=commit;h=5d8c71af5e0fa5cdc99d9f741624920e34756418)
+| [VendelinSlezak/BleskOS](https://github.com/VendelinSlezak/BleskOS) | Code improvement | C | Vendelín Slezák | [ac7772b5e652dbf3d7693970eb201cea04794f2f](https://github.com/VendelinSlezak/BleskOS/pull/99/changes/ac7772b5e652dbf3d7693970eb201cea04794f2f)
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Feature addition | Python | The Algorithms | [1f03223571af91424381195b5ea8618d2815b3c6](https://github.com/TheAlgorithms/Python/pull/12344/changes/1f03223571af91424381195b5ea8618d2815b3c6)
+| [python/cpython](https://github.com/python/cpython) | Doc Fix | N/A | Python Software Foundation | [1fcd8cfe4b4aec62b8a346598d8d8f0eef0d2e09](https://github.com/python/cpython/pull/130741/changes/1fcd8cfe4b4aec62b8a346598d8d8f0eef0d2e09)
